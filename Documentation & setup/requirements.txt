@@ -1,0 +1,6 @@
+# Required Python Libraries for Flight Reservation Desktop App
+# -----------------------------------------------
+# 1- tkinter: For creating the graphical user interface (GUI).
+# 2- os: checks whether the icon file exists before calling iconbitmap
+# 3- sqlite3: For database management to store flight and reservation data.
+# 4- pyinstaller: To package the application into a standalone executable file for Windows.
